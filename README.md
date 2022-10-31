@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaushal-Saraf
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in webdevelopment
+- 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on eay begginer freindly project
 - 📫 reach me via kaushalsaraf2002@gmail.com
 
