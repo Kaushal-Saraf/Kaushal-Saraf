@@ -43,8 +43,8 @@
 ### 🧠 Patent
 - *System and Method for AI-Driven Automated Medication Dispensing with Biometric Authentication and Cloud Integrations*  
 - Status: Published  
-- Focus on automation in healthcare systems  
-
+- Focus on automation in healthcare systems
+- Application Number : 202411071124
 ---
 
 ## 🛠️ Technical Skills
